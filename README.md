@@ -1,8 +1,10 @@
-# NYC Taxi Data Engineering Project
+# Enterprise-Scale Smart Mobility Data Platform using Azure Data Lake Storage Gen2, Azure Data Factory, Azure Databricks, PySpark & Delta Lake.
 
 # Project Overview
 
 This project demonstrates the design and implementation of an end-to-end Azure Data Engineering solution using the NYC Taxi dataset.
+
+Enterprise-Scale Smart Mobility Data Platform built using Azure Data Lake Storage Gen2, Azure Data Factory, Azure Databricks, PySpark, Delta Lake, and SQL Analytics with Medallion Architecture.
 
 The solution follows the Medallion Architecture (Bronze → Silver → Gold) to transform raw taxi trip data into business-ready analytical datasets. The project leverages Azure cloud services, Delta Lake, PySpark, and Databricks SQL to build a scalable and production-style data pipeline.
 
@@ -28,6 +30,10 @@ Raw CSV Files
 ⬇
 
 Azure Data Lake Storage Gen2 (Raw Layer)
+
+ ⬇
+
+Azure Data Factory (ADF)
 
 ⬇
 
@@ -58,6 +64,11 @@ Cloud Services
 - Microsoft Azure
 - Azure Data Lake Storage Gen2
 - Azure Databricks
+- Azure Data Factory (Pipeline Orchestration)
+- Automated Workflow Orchestration using Azure Data Factory
+- End-to-End ETL Pipeline
+- Data Ingestion → Bronze → Silver → Gold execution through ADF
+
 
 Data Engineering
 
@@ -197,6 +208,7 @@ These dashboards provide quick insights for business stakeholders and decision-m
  # Key Skills Demonstrated
 
 - Azure Data Lake Storage Gen2
+- Azure Data Factory (ADF Pipeline Orchestration)
 - Azure Databricks
 - PySpark Transformations
 - Delta Lake
@@ -206,6 +218,11 @@ These dashboards provide quick insights for business stakeholders and decision-m
 - Dashboard Development
 - Medallion Architecture
 - End-to-End Data Engineering
+- Automated Workflow Orchestration using Azure Data Factory
+- End-to-End ETL Pipeline
+- Data Ingestion → Bronze → Silver → Gold execution through ADF
+
+  
 
 ---
 
@@ -242,6 +259,12 @@ These dashboards provide quick insights for business stakeholders and decision-m
 ✔ Dashboard Ready Data Models
 
 ✔ Production-Style Data Engineering Workflow
+
+✔ Automated Workflow Orchestration using Azure Data Factory
+
+✔ End-to-End ETL Pipeline
+
+✔ Data Ingestion → Bronze → Silver → Gold execution through ADF
 
 ---
 
